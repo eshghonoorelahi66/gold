@@ -1,15 +1,1 @@
-[XAUUSD_M1.json](https://github.com/user-attachments/files/34868675/XAUUSD_M1.json)
-[XAUUSD_M15.json](https://github.com/user-attachments/files/34868673/XAUUSD_M15.json)
-[XAUUSD_M5.json](https://github.com/user-attachments/files/34868672/XAUUSD_M5.json)
-[XAUUSD_M30.json](https://github.com/user-attachments/files/34868667/XAUUSD_M30.json)
-[XAUUSD_H1.json](https://github.com/user-attachments/files/34868666/XAUUSD_H1.json)
-[XAUUSD_H4.json](https://github.com/user-attachments/files/34868665/XAUUSD_H4.json)
-[XAUUSD_D1.json](https://github.com/user-attachments/files/34868664/XAUUSD_D1.json)
-[XAUUSD1(1).csv](https://github.com/user-attachments/files/34868655/XAUUSD1.1.csv)
-[XAUUSD15(4).csv](https://github.com/user-attachments/files/34868653/XAUUSD15.4.csv)
-[XAUUSD5(3).csv](https://github.com/user-attachments/files/34868651/XAUUSD5.3.csv)
-[XAUUSD30(1).csv](https://github.com/user-attachments/files/34868649/XAUUSD30.1.csv)
-[XAUUSD60(3).csv](https://github.com/user-attachments/files/34868647/XAUUSD60.3.csv)
-[XAUUSD240.csv](https://github.com/user-attachments/files/34868646/XAUUSD240.csv)
-[XAUUSD1440.csv](https://github.com/user-attachments/files/34868645/XAUUSD1440.csv)
-# gold
+
